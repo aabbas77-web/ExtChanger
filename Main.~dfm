@@ -1,6 +1,6 @@
 object FormMain: TFormMain
-  Left = 179
-  Top = 120
+  Left = 190
+  Top = 105
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Extension Changer V1.0'
@@ -85,7 +85,7 @@ object FormMain: TFormMain
             Width = 208
             Height = 14
             Align = alClient
-            Caption = 'F:\GitHub\ExtChanger\ExtChanger'
+            Caption = 'F:\Ali\Digitizer\ExtChanger'
             Color = 14145495
             ParentColor = False
           end

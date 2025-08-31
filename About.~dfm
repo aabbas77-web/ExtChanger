@@ -1,6 +1,6 @@
 object FormAbout: TFormAbout
-  Left = 408
-  Top = 121
+  Left = 190
+  Top = 126
   BiDiMode = bdLeftToRight
   BorderIcons = [biSystemMenu]
   BorderStyle = bsDialog
@@ -64,6 +64,7 @@ object FormAbout: TFormAbout
       Height = 13
       Alignment = taCenter
       AutoSize = False
+      Caption = 'Syria - Damascus'
     end
     object Label7: TLabel
       Left = 5
@@ -72,6 +73,7 @@ object FormAbout: TFormAbout
       Height = 13
       Alignment = taCenter
       AutoSize = False
+      Caption = 'Barzeh'
     end
     object Label4: TLabel
       Left = 5
@@ -80,7 +82,7 @@ object FormAbout: TFormAbout
       Height = 13
       Alignment = taCenter
       AutoSize = False
-      Caption = 'www.hodhods.com'
+      Caption = 'www.alisoft.4t.com'
     end
     object Label5: TLabel
       Left = 5
@@ -89,7 +91,7 @@ object FormAbout: TFormAbout
       Height = 13
       Alignment = taCenter
       AutoSize = False
-      Caption = 'E-Mail: aabbas7@gmail.com'
+      Caption = 'E-Mail: aabbas77@yahoo.com'
     end
     object Label6: TLabel
       Left = 5
@@ -98,6 +100,7 @@ object FormAbout: TFormAbout
       Height = 13
       Alignment = taCenter
       AutoSize = False
+      Caption = 'Mobile: +963 93 883674'
     end
     object Image1: TImage
       Left = 9

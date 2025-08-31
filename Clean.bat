@@ -1,1 +1,6 @@
-ïnî&tìÐhŸœ?Wu£×Î±1Ô×¤/êDn¨¶Ãe0´Ô°\ÈfgÃ¼›ûÀä²è›äæŒÞ»Á)îËÕ©¶ÔÀ
+del *.~*
+del *.tds
+del *.obj
+del *.BCE
+del *.SUP
+del *.cgl
